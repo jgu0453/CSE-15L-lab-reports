@@ -1,1 +1,1 @@
-*Italic* Fuck it, we ball
+*Fuck it, we ball*
