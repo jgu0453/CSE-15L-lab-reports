@@ -1,3 +1,5 @@
+Lab Report 1
+
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/fda2ff5e-220b-42f1-8538-21fdbf7a7e29)
 *commands are in order respectively
 
