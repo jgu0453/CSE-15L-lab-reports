@@ -68,4 +68,5 @@ no password
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/b95c74cd-5d5c-4bfe-b2a6-873c300f1a05)
 
 Part 3:
+
 I have not used terminal before, and it was cool to learn about logging into a remote server. It was also nice to learn how to access servers with public or private keys.
