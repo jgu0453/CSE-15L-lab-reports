@@ -41,4 +41,5 @@ class StringServer {
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/bf0bb389-d39f-41c8-94f0-7641dd8594b5)
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/2e38f7d3-7b95-4b7c-b1b2-a9518449ef2e)
 
-
+Screenshot 1:
+It calls the String handleRequest(URI url) and the Server.start(port, new Handler()) method.
