@@ -38,3 +38,5 @@ class StringServer {
     }
 }
 ```
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/bf0bb389-d39f-41c8-94f0-7641dd8594b5)
+
