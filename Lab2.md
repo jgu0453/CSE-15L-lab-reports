@@ -59,6 +59,11 @@ Part 2:
 
 private key
 
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/8c9eb50c-cbd6-418d-bc0f-9e8790e3b09c)
+
+public key
+
+
 
 
 
