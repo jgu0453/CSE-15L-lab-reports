@@ -54,8 +54,11 @@ The Stringbuffer sb gets a new string appended, adding on to the string appended
 
 
 Part 2:
+
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/7f27dba6-c19d-4460-a2c1-94462ee1faa5)
+
 private key
+
 
 
 
