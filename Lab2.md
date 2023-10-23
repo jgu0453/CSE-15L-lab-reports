@@ -1,3 +1,5 @@
+Part 1:
+
 ```java
 import java.io.IOException;
 import java.net.URI;
@@ -50,3 +52,6 @@ Screenshot 2:
 It calls the String handleRequest(URI url) and the Server.start(port, new Handler()) method.
 The Server start method takes a port number and a new Handler object and the HandleRequest method takes a url argument.
 The Stringbuffer sb gets a new string appended, adding on to the string appended in screenshot1, and count is incremented by 1 again.
+
+
+Part 2:
