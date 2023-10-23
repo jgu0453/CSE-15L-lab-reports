@@ -55,16 +55,16 @@ The Stringbuffer sb gets a new string appended, adding on to the string appended
 
 Part 2:
 
-![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/7f27dba6-c19d-4460-a2c1-94462ee1faa5)
-
 private key
 
-![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/8c9eb50c-cbd6-418d-bc0f-9e8790e3b09c)
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/7f27dba6-c19d-4460-a2c1-94462ee1faa5)
 
 public key
 
-![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/b95c74cd-5d5c-4bfe-b2a6-873c300f1a05)
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/8c9eb50c-cbd6-418d-bc0f-9e8790e3b09c)
 
 no password
+
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/b95c74cd-5d5c-4bfe-b2a6-873c300f1a05)
 
 Part 3:
