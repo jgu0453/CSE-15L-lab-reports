@@ -62,6 +62,10 @@ Chose grep command.
 3. grep -n
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/cb3b938d-3ee9-470c-9181-583912119f2c)
 
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/96b108b9-0c6c-48c4-8aec-df1732bee42a)
+
+4. grep -v
+
 
 
 
