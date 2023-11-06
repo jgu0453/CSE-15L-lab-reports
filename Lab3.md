@@ -39,3 +39,12 @@ static void reverseInPlace(int[] arr) {
   }
 ```
 The issue is that the original value in the arr[i] is not being temporarily stored, so the first half of the array is lost. The fix stores arr[i] as a temporary value then reassigns it to the respective spot in the array. 
+
+Part 2:
+
+Chose grep command.
+4 options for this command:
+1. grep -i : ignore case
+2. grep -c : only prints count of lines that match pattern
+3. grep -n : display matched lines and their line numbers
+4. grep -v : print all lines that do not match the pattern
