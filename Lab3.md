@@ -49,5 +49,9 @@ Chose grep command.
 3. grep -n : display matched lines and their line numbers
 4. grep -v : print all lines that do not match the pattern
 
+1. grep -i
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/4d15832f-0508-4907-bfea-05b4e4fad821)
+
+
 
 
