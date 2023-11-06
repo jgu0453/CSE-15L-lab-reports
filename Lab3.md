@@ -54,22 +54,28 @@ Chose grep command.
 
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/f548a1c5-9469-4cf0-9fb2-da4e6409fbca)
 
+This searches for the specific string, for example "We", but ignores the case, so both we and We are found.
+
 2. grep -c
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/672f0858-cb95-42e5-a255-8936fb15599f)
 
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/f8e995f2-0ed9-490c-818a-a904b8c226bb)
+
+This will only print out how many lines in this file match the specific string.
 
 3. grep -n
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/cb3b938d-3ee9-470c-9181-583912119f2c)
 
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/96b108b9-0c6c-48c4-8aec-df1732bee42a)
 
+The will print out all the lines that match the specific string, along with its line number.
+
 4. grep -v
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/69b7903b-7272-4beb-bb1e-c18d3895820f)
 
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/3f118bc2-547a-4581-adb3-cba85d2ce23e)
 
-
-
+This will print out all lines that don't match the specific string.
 
 
 
