@@ -1,7 +1,12 @@
 Part 1:
 ArrayExamples.java bug
 reverseInPlace method:
+a)
 ```
-a) input = [1, 2, 3, 4, 5]
+input = [1, 2, 3, 4, 5];
 ```
-f
+b) 
+```
+input = [1, 2, 3, 2, 1];
+```
+   
