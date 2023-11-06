@@ -78,7 +78,8 @@ The will print out all the lines that match the specific string, along with its 
 This will print out all lines that don't match the specific string.
 
 
-
+All method options were found on the same site:
+“GREP Command in Unix/Linux.” GeeksforGeeks, GeeksforGeeks, 15 Nov. 2022, www.geeksforgeeks.org/grep-command-in-unixlinux/. 
 
 
 
