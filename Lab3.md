@@ -60,6 +60,9 @@ Chose grep command.
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/f8e995f2-0ed9-490c-818a-a904b8c226bb)
 
 3. grep -n
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/cb3b938d-3ee9-470c-9181-583912119f2c)
+
+
 
 
 
