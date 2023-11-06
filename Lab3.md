@@ -52,6 +52,10 @@ Chose grep command.
 1. grep -i
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/4d15832f-0508-4907-bfea-05b4e4fad821)
 
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/f548a1c5-9469-4cf0-9fb2-da4e6409fbca)
+
+2. grep -c
+
 
 
 
