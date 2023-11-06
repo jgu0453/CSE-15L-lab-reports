@@ -37,3 +37,4 @@ static void reverseInPlace(int[] arr) {
     }
   }
 ```
+The issue is that the original value in the arr[i] is not being temporarily stored, so the first half of the array is lost. The fix stores arr[i] as a temporary value then reassigns it to the respective spot in the array. 
