@@ -28,9 +28,17 @@ i
 esc
 :wq <Enter>
 
+Before:
+
+After:
+
+
 Step 8:
 type
 bash test.sh <Enter>
 
 Step 9:
+type
+git push origin main
+
 
