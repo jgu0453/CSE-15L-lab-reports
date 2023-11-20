@@ -1,9 +1,36 @@
 Lab Report 4
+(Something went wrong with my ieng log in)
+(I will contact a TA for help)
 
 Steps 4-9:
 
 Step 4:
-type ssh cs15lfa23hx@ieng6.ucsd.edu
-<Enter>
+type 
+ssh cs15lfa23hx@ieng6.ucsd.edu <Enter>
 
 Step 5:
+clone repository lab7
+
+Step 6:
+type
+javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java <Enter>
+java -cp ".;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore ArrayTests <Enter>
+bash test.sh <Enter>
+
+Step 7:
+type
+vim ListExamples.java
+j until error line
+l until cursor over 2
+x
+i
+2
+esc
+:wq <Enter>
+
+Step 8:
+type
+bash test.sh <Enter>
+
+Step 9:
+
