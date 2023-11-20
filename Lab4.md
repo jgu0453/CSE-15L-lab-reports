@@ -28,10 +28,8 @@ i
 esc
 :wq <Enter>
 
-Before:
-
-After:
-
+result:
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/a9353a19-fbd6-46e5-bd04-7ca060d50a60)
 
 Step 8:
 type
