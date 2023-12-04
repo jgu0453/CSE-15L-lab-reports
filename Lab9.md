@@ -12,6 +12,7 @@ Here are screenshots of my code and terminal:
 
 
 
+
 TA Response:
 
 After looking through your code, there is nothing wrong with the bash script.
@@ -21,6 +22,7 @@ The problem is in your code.
 For the merge method, the conditions for the while loop are causing the error because it should be an && instead of ||, otherwise it is possible for one of the indices to increment outside of the bounds of their list size.
 
 Try that to see if it works.
+
 
 
 
