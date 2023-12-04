@@ -42,5 +42,5 @@ That worked, Thank you very much.
 
 Part 2:
 
-
+This Lab experience was very helpful. I was completely new to a linux system and terminal, so it was great to learn and practice. I thought it was cool to start a web server. I think the greatest takeaway from this lab was that I could use a Linux system to do things that other OS could do, like create directories and files, search for files, edit files, and even access remote servers. I did struggle a bit later on, but the lab TA's helped a lot.
 
