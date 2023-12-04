@@ -65,6 +65,8 @@ type
 
 bash test.sh <Enter>
 
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/f260f0d0-4978-428d-b59f-6ead3d19d1db)
+
 
 
 
