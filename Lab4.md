@@ -18,6 +18,8 @@ Step 6:
 
 type
 
+cd lab7
+
 javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java <Enter>
 
 java -cp ".;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore ArrayTests <Enter>
