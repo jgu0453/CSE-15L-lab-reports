@@ -78,6 +78,4 @@ Step 9:
 
 type
 
-git push origin main
-
-
+git push origin main 
