@@ -27,6 +27,8 @@ cd lab7
 
 bash test.sh <Enter>
 
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/0e5c6307-b35e-4382-9f29-e3295896f716)
+
 
 
 
