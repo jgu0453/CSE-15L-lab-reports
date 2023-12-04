@@ -12,6 +12,7 @@ Here are screenshots of my code and terminal:
 
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/4c3e3cf8-c962-4a08-b10c-ed764918aca6)
 
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/47f05e6e-3250-42d9-a616-433f13207929)
 
 
 
@@ -32,6 +33,8 @@ Try that to see if it works.
 Student trial:
 
 That worked, Thank you very much.
+
+test.sh had no issues.
 
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/635202ae-1618-40bc-938e-82365a01f51f)
 
