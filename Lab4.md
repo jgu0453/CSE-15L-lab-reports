@@ -1,6 +1,4 @@
 Lab Report 4
-(Something went wrong with my ieng log in)
-(I will contact a TA for help)
 
 Steps 4-9:
 
