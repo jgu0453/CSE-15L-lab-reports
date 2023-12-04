@@ -33,6 +33,8 @@ That worked, Thank you very much.
 
 ![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/635202ae-1618-40bc-938e-82365a01f51f)
 
+![image](https://github.com/jgu0453/CSE-15L-lab-reports/assets/119398520/9c7de6f9-705e-4194-b44f-31499b63584a)
+
 
 
 
